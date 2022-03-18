@@ -69,3 +69,11 @@ int distance(int x,int y)
 	
 	return resultat;
 }
+int nobrepremier (int nb)
+{
+	int resultat;
+	
+	resultat= nb / nb;
+	
+	return resultat;
+}
