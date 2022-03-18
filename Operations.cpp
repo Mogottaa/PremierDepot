@@ -60,3 +60,12 @@ int exposant(int nb, int exp)
 	
 	return resultat;
 }
+
+int distance(int x,int y)
+{
+	int resultat;
+	
+	resultat = y-x;
+	
+	return resultat;
+}
