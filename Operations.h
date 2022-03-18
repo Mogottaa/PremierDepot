@@ -6,11 +6,13 @@ int multiplication(int a, int b);
 
 int division(int a, int b);
 
-
 int exposant(int nb, int exp);
+
+int distance(int x,int y);
 
 int nobrepremier (int nb);
 
 int factoriel(int nb);
 
 int exposant(int nb, int exp);
+
